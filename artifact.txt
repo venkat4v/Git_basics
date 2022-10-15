@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is aritifact directory
 and i am creating branch 2 of this and changed by developer2
+=======
+This is aritifact directory and i am changing
+>>>>>>> developer1
